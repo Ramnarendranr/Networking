@@ -28,6 +28,7 @@ The Network Interface Layer is responsible for the physical transmission of data
 
 
 **2. Internet Layer**
+
 *Description:*
 The Internet Layer manages the logical addressing and routing of data packets across different networks. It ensures that packets are sent from the source to the destination correctly.
 
@@ -46,6 +47,7 @@ The Internet Layer manages the logical addressing and routing of data packets ac
 
 
 **3. Transport Layer**
+
 *Description:*
 The Transport Layer provides end-to-end communication services for applications. It ensures complete data transfer, error recovery, and flow control.
 
@@ -62,6 +64,7 @@ The Transport Layer provides end-to-end communication services for applications.
 
 
 **4. Application Layer**
+
 *Description:*
 The Application Layer is the top layer in the TCP/IP model, which provides protocols and services for end-user applications. It enables software to communicate over the network.
 
