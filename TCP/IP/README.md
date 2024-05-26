@@ -84,10 +84,13 @@ The Application Layer is the top layer in the TCP/IP model, which provides proto
 
 
 ### Summary of TCP/IP Layers
-**Network Interface Layer (Link Layer):** Handles the physical and data link aspects of network communication. **Ethernet and hardwares** *Frame*
-**Internet Layer:** Manages logical addressing and routing (IP). *Packets*
-Transport Layer: Ensures reliable data transfer (TCP, UDP). *Segment*
-Application Layer: Provides protocols for specific applications and services (HTTP, FTP, SMTP, etc.). *PDU*
+**Network Interface Layer (Link Layer):** Handles the physical and data link aspects of network communication. **Ethernet and hardwares** *Frame*.
+
+**Internet Layer:** Manages logical addressing and routing (IP). ***IP Protocol*** *Packets*.
+
+**Transport Layer:** Ensures reliable data transfer (TCP, UDP). ***TCP Protocol*** *Segment*.
+
+**Application Layer:** Provides protocols for specific applications and services (HTTP, FTP, SMTP, etc.). *PDU*
 
 
 
