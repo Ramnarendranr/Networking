@@ -29,21 +29,25 @@
 **Purpose:**
 
 TCP/IP: Functional model designed to solve specific communication problems based on standard protocols.
+
 OSI: Generic, protocol-independent model intended to describe all forms of network communication.
 
 **Complexity:**
 
 TCP/IP: Simpler, collapsing several OSI layers into single layers.
+
 OSI: More complex, with distinct layers for different functions.
 
 **Layer Utilization:**
 
 TCP/IP: Most applications use all layers.
+
 OSI: Simple applications may not use all seven layers; only layers 1, 2, and 3 are mandatory for any data communication.
 
 **Responsibility for Functions:**
 
 TCP/IP: Does not take responsibility for sequencing and acknowledgement functions, leaving these to the underlying transport layer.
+
 OSI: Each layer has specific responsibilities, including sequencing and acknowledgement in the appropriate layers.
 
 
